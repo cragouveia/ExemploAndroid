@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo</string>
+    <string name="labelNome">Nome</string>
+    <string name="labelOK">OK</string>
+</resources>
